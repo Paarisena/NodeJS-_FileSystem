@@ -1,0 +1,16 @@
+{
+  "name": "node_day1_task",
+  "version": "1.0.0",
+  "description": "Node Day 1 task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
